@@ -1,5 +1,13 @@
 package ru.job4j.calculator;
 
+/**
+ * Package for calculate task.
+ *
+ * @author Vyacheslav Kovshun (slava.cod4@yandex.ru)
+ * @version 1
+ * @since 02.02.2020
+ */
+
 public class Fit {
 
     public static double manWeight(double height) {
